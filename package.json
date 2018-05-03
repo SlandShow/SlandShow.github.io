@@ -1,0 +1,24 @@
+{
+  "name": "clicker_react",
+  "version": "0.0.1",
+  "homepage": "http://gitname.github.io/react-gh-pages",
+  "private": true,
+  "dependencies": {
+    "js-cookie": "^2.2.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-scripts": "1.1.0",
+    "redux": "3.7.2",
+    "redux-cookies-middleware": "^0.1.3",
+    "redux-saga": "^0.16.0",
+    "semantic-ui-css": "^2.3.1",
+    "semantic-ui-react": "^0.79.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
