@@ -15,5 +15,5 @@ res.response.items[0].likes.count.toString() + "\nКоличество прос�
 res.response.items[0].views.count.toString() + "\nКоличество репостов: " +
 res.response.items[0].reposts.count.toString();
 console.log(text);
-document.getElementById("view").innerHTML = text;
+document.getElementById("user_view").innerHTML = text;
 });
